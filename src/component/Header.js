@@ -47,10 +47,10 @@ function Header() {
                         <a href="/#skill">TBD</a>
                       </li>
                       <li>
-                        <a href="/#resume">Education</a>
+                        <a href="/#resume">TBD</a>
                       </li>
                       <li>
-                        <a href="/#service">Service</a>
+                        <a href="/#service">TBD</a>
                       </li>
                       <li>
                         <a href="/#blog">TBD</a>

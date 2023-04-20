@@ -19,7 +19,7 @@ const Home = () => {
                         >
                           <b className="is-hidden">Brain Gain</b>
                           <b className="is-hidden">Tutoring Service</b>
-                          <b className="is-visible">COSSOT Schools</b>
+                          {/* <b className="is-visible">COSSOT Schools</b> */}
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
@@ -67,7 +67,7 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>What is Brain Gain</h3>
+                      <h3>What is Brain Gain?</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
@@ -121,7 +121,7 @@ const Home = () => {
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".4s">
                       <i className="fa fa-cog love-icon" aria-hidden="true"></i>
-                      <h3>Liberal Art</h3>
+                      <h3>Liberal Arts</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>yes art</p>
