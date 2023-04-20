@@ -17,7 +17,7 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-visible">brain Gain</b>
+                          <b className="is-visible">Brain Gain</b>
                           <b className="is-hidden">Tutoring Service</b>
                         </span>
                       </h1>
