@@ -19,7 +19,6 @@ const Home = () => {
                         >
                           <b className="is-hidden">Brain Gain</b>
                           <b className="is-hidden">Tutoring Service</b>
-                          {/* <b className="is-visible">COSSOT Schools</b> */}
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
@@ -1242,14 +1241,14 @@ const Home = () => {
                         ></i>
                         <h3>Phone</h3>
                         <a
-                          href="tel:"
+                          href="tel:4373889823"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          tbd
+                          4373889823
                         </a>
                       </div>
                     </div>
