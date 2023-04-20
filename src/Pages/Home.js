@@ -17,27 +17,16 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Sanajit Jana</b>
-                          <b className="is-hidden">Designer</b>
-                          <b className="is-visible">Developer</b>
+                          <b className="is-hidden">Brain Gain</b>
+                          <b className="is-hidden">Tutoring Service</b>
+                          <b className="is-visible">COSSOT Schools</b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
                         <ul className="about-social">
-                          <li className="wow fadeIn" data-wow-delay=".4s">
+                          <li className="wow fadeIn" data-wow-delay=".1s">
                             <a
-                              href="https://www.linkedin.com/in/sanajitjana01"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-linkedin"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".2s">
-                            <a
-                              href="https://github.com/sanajitjana"
+                              href="https://github.com/gordowuu"
                               target="newtab"
                             >
                               <i
@@ -46,34 +35,15 @@ const Home = () => {
                               ></i>
                             </a>
                           </li>
-                          <li className="wow fadeIn" data-wow-delay=".6s">
+                          <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
-                              href="https://www.instagram.com/sanajitjana01/"
+                              href="https://www.instagram.com/braingain_org/"
                               target="newtab"
                             >
                               <i
                                 className="fa fa-instagram"
                                 aria-hidden="true"
                               ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".8s">
-                            <a
-                              href="https://twitter.com/sanajitjana01"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-twitter"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay="1s">
-                            <a
-                              href="https://dev.to/sanajitjana"
-                              target="newtab"
-                            >
-                              <i className="fa fa-book" aria-hidden="true"></i>
                             </a>
                           </li>
                         </ul>
@@ -97,19 +67,16 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>What I do</h3>
+                      <h3>What is Brain Gain</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        At present time I'm working on a multi-role, as a Web
-                        Developer I design and create various websites. And as
-                        UI/UX Designer I create many designs for Web
-                        Applications and Mobile applications. I create the
-                        beauty of the site. I'm responsible for the site's
-                        technical aspects, such as its performance and capacity,
-                        which are measures of a website's speed and how much
-                        traffic the site can handle. In addition, I also create
-                        content for the site.
+                      With students from all across the GTA and tutors from COSSOT schools, our mission is to provide free, easily accessible and high-quality tutoring services for students in grades 5-11 in Toronto. 
+                      We believe that every student has the potential to excel academically and our goal is to help them achieve their academic goals. 
+                      Our experienced tutors are knowledgeable in the subjects they teach and are passionate about helping students succeed. 
+                      We provide student-led teaching where students teach other students, allowing for a deeper understanding of the material and a faster learning process. 
+                      Our tutors display empathy and believe that understanding how to get from point A to point B is key to success. As experienced students, our tutors not only have the knowledge but also understand the process and complications on the road to success. 
+                      We aim to create a supportive environment where students feel comfortable asking questions and seeking help. Our mission is to empower students to become confident and independent learners who are ready to take on any academic challenge that comes their way.
                       </p>
                     </div>
                   </div>
@@ -121,10 +88,10 @@ const Home = () => {
                         className="fa fa-pencil-square-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Working Hard</h3>
+                      <h3>Math</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Always believe in hard-work in my profession</p>
+                      <p>i love math yay !</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -133,10 +100,10 @@ const Home = () => {
                         className="fa fa-file-image-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>UI/UX Design</h3>
+                      <h3>Science</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Love to do UI/UX design for new product</p>
+                      <p>this plus this = explosion.png</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -145,19 +112,19 @@ const Home = () => {
                         className="fa fa-globe love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Web Design</h3>
+                      <h3>Coding</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Passionate about Web Design from start</p>
+                      <p>hackermans</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".4s">
                       <i className="fa fa-cog love-icon" aria-hidden="true"></i>
-                      <h3>Web Development</h3>
+                      <h3>Liberal Art</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Created all types of modern web development.</p>
+                      <p>yes art</p>
                     </div>
                   </div>
                 </div>
@@ -171,8 +138,8 @@ const Home = () => {
                   <div className="col-md-4 col-sm-6 col-xs-12 about-col">
                     <div className="about-image">
                       <img
-                        src="assets/img/about-image.jpg"
-                        alt="sanajit-jana"
+                        src="assets/img/person_1.jpg"
+                        alt="Brain Gain"
                         className="about-img wow fadeIn"
                       />
                     </div>
@@ -180,42 +147,25 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Sanajit</h3>
+                        <h3>Welcome to Brain Gain!</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
                       <p className="wow fadeIn">
-                        I am a web developer from Kolkata, India. I enjoy
-                        building everything from small business sites to rich
-                        interactive web apps. if you are a business seeking a
-                        web presence or an employer looking to hire, you can get
-                        in touch with me{" "}
-                        <a className="underline2" href="#contact">
-                          {" "}
-                          here.
-                        </a>{" "}
-                        I design and build digital products with simple and
-                        beautiful code. I specialize in custom web theme
-                        development and love what I do.
+                        prob info on how to sign up yuh
                         <br />
                         <br />
-                        Since beginning my journey as a web developer in my
-                        college days, I've done remote work for agencies,
-                        consulted for startups, and collaborated with talented
-                        people to create digital products for both business and
-                        consumer use. I'm quietly confident, naturally curious,
-                        and perpetually working on improving my chops one design
-                        problem at a time.
+                        more info yay
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="https://www.google.com"
                         target="_blank"
                       >
-                        See Resume
+                        link 1 - goes to google rn 
                       </a>
                       <a className="about-link-2" href="#contact">
-                        Hire Me
+                        link 2 - goes to contact page rn
                       </a>
                     </div>
                   </div>
@@ -235,7 +185,7 @@ const Home = () => {
                         <h3 className="Count">0021</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Web Design Completed</p>
+                        <p>TBD</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -244,10 +194,10 @@ const Home = () => {
                           className="fa fa-crop stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0040</h3>
+                        <h3 className="Count">TBD</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>UI/UX Design Done</p>
+                        <p>TBD</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -256,10 +206,10 @@ const Home = () => {
                           className="fa fa-bolt stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0015</h3>
+                        <h3 className="Count">TBD</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Website Created</p>
+                        <p>TBD</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -268,10 +218,10 @@ const Home = () => {
                           className="fa fa-coffee stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0085</h3>
+                        <h3 className="Count">TBD</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Cups Coffee Taken</p>
+                        <p>TBD</p>
                       </div>
                     </div>
                   </div>
@@ -283,7 +233,7 @@ const Home = () => {
 
         {/* <!-- ================================ Skill =============================== --> */}
 
-        <div id="skill">
+        {/* <div id="skill">
           <div className="skill-main">
             <div className="container">
               <div className="row">
@@ -343,11 +293,11 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* <!-- ================================ RESUME =============================== --> */}
 
-        <div id="resume">
+        {/* <div id="resume">
           <div className="resume-content">
             <div className="resume-grid text-center">
               <div className="container">
@@ -509,8 +459,8 @@ const Home = () => {
                         </p>
                       </div>
                     </div>
-                  </div>
-                  {/* <div className="col-md-4 col-sm-4">
+                  </div> 
+                  <div className="col-md-4 col-sm-4">
                     <div className="exp-details" data-wow-delay=".4s">
                       <div className="exp-hover"></div>
                       <div className="exp-main">
@@ -526,12 +476,12 @@ const Home = () => {
                         <p>Lorem Ipsum is simply dummy text of the printing.</p>
                       </div>
                     </div>
-                  </div> */}
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* <!-- ================================ WORK =============================== --> */}
 
@@ -672,7 +622,7 @@ const Home = () => {
 
         {/* <!-- ============================================== SERVICE ===================================================== --> */}
 
-        <div id="service">
+        {/* <div id="service">
           <div className="service-content">
             <div className="service-grid text-center">
               <div className="container">
@@ -927,11 +877,11 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* <!-- ================================ BLOG ========================== --> */}
 
-        <div id="blog">
+        {/* <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
               <div className="container">
@@ -1116,7 +1066,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* <!-- ================================ CONTACT ========================== --> */}
 
@@ -1128,12 +1078,11 @@ const Home = () => {
                   <div className="row">
                     <div className="col-md-12 col-sm-12">
                       <div className="main-title text-center wow fadeIn">
-                        <h3>Contact Me</h3>
+                        <h3>Contact Us</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I’m always open to discussing product design work or
-                          partnership opportunities.
+                          yes contact us
                         </p>
                       </div>
                     </div>
@@ -1262,8 +1211,8 @@ const Home = () => {
                           className="fa fa-map-marker contact-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Address</h3>
-                        <p>Kolkata, West Bengal, India</p>
+                        <h3>Location</h3>
+                        <p>Toronto, Ontario, Canada</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
@@ -1274,14 +1223,14 @@ const Home = () => {
                         ></i>
                         <h3>Email</h3>
                         <a
-                          href="mailto:contact.sanajitjana@gmail.com"
+                          href="mailto:braingaintutoring1@gmail.com"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          contact.sanajitjana@gmail.com
+                          braingaintutoring1@gmail.com
                         </a>
                       </div>
                     </div>
@@ -1293,43 +1242,15 @@ const Home = () => {
                         ></i>
                         <h3>Phone</h3>
                         <a
-                          href="tel:8372876775"
+                          href="tel:"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          +91 8372876775
+                          tbd
                         </a>
-                      </div>
-                    </div>
-                    <div className="col-md-3 col-sm-6 contact-colamn">
-                      <div className="contact-col-info" data-wow-delay=".6s">
-                        <i
-                          className="fa fa-television contact-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Portfolio</h3>
-                        <p>https://sanajitjana.github.io/</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="container-fluid map-col">
-                  <div class="col-md-12 col-sm-12 map-col">
-                    <div class="google-maps">
-                      <div class="map-wrap">
-                        <iframe
-                          title="google-maps"
-                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471220.5630603985!2d88.0495328251319!3d22.675752087592436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1653845709428!5m2!1sen!2sin"
-                          width="100%"
-                          height="450"
-                          style={{ border: "0" }}
-                          allowfullscreen=""
-                          loading="lazy"
-                          referrerpolicy="no-referrer-when-downgrade"
-                        ></iframe>
                       </div>
                     </div>
                   </div>
