@@ -17,8 +17,8 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
+                          <b className="is-visible">Brain Gain</b>
                           <b className="is-hidden">Tutoring Service</b>
-                          <b className="is-hidden">Brain Gain</b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
@@ -120,7 +120,7 @@ const Home = () => {
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".4s">
                       <i className="fa fa-cog love-icon" aria-hidden="true"></i>
-                      <h3>Liberal Arts</h3>
+                      <h3>Liberal Art</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>yes art</p>
