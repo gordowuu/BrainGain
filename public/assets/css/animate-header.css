@@ -128,7 +128,7 @@ xrotate-1
   transform: rotateX(180deg);
   -webkit-animation: cd-rotate-1-out 1.2s;
   -moz-animation: cd-rotate-1-out 1.2s;
-  animation: cd-rotate-1-out 1.2s;
+  animation: cd-rotate-1-out 1.2s;  
 }
 
 @-webkit-keyframes cd-rotate-1-in {
