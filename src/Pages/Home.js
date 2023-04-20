@@ -19,10 +19,7 @@ const Home = () => {
                         >
                           <b className="is-hidden">Brain Gain</b>
                           <b className="is-hidden">Tutoring Service</b>
-<<<<<<< HEAD
-=======
                           <b className="is-visible">COSSOT Schools</b>
->>>>>>> parent of d2c220f (more changes)
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
