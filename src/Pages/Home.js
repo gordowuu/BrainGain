@@ -90,7 +90,7 @@ const Home = () => {
                       <h3>Math</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>i love math yay !!</p>
+                      <p>i love math yay !</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
