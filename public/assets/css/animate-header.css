@@ -13,7 +13,7 @@ Primary style
   font-size: 2.4rem;
   font-weight: 700;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1028px) {
   .cd-title {
     line-height: 250px;
   }
@@ -30,14 +30,14 @@ Primary style
 
 .cd-intro {
   width: 90%;
-  max-width: 768px;
+  max-width: 1028px;
   text-align: center;
 }
 
 .cd-intro {
   margin: 4em auto;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1028px) {
   .cd-intro {
     margin: 5em auto;
   }
@@ -52,7 +52,7 @@ Primary style
   font-size: 3rem;
   line-height: 1.2;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1028px) {
   .cd-headline {
     font-size: 4.4rem;
     font-weight: 300;
