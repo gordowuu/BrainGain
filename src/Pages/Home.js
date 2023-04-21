@@ -123,7 +123,7 @@ const Home = () => {
                       <h3>Liberal Arts</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>yes art !</p>
+                      <p>yes art!</p>
                     </div>
                   </div>
                 </div>
