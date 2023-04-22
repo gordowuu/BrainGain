@@ -27,7 +27,6 @@ function App() {
             <Route exact path="/ui-ux" component={UiUx} />
             <Route exact path="/form-example" component={FormExample} />
             <Route exact path="/team">
-              <Team />
             </Route>
           </Switch>
         </ScrollToTop>
