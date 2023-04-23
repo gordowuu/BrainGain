@@ -16,7 +16,7 @@ function Footer() {
                 <i className="fa fa-instagram" aria-hidden="true"></i>
               </a>
             </li>
-            <li className="wow fadeIn" data-wow-delay="1s">
+            <li className="wow fadeIn" data-wow-delay=".8s">
               <a href="https://github.com/gordowuu" target="newtab">
                 <i className="fa fa-github" aria-hidden="true"></i>
               </a>
