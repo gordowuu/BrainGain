@@ -643,7 +643,7 @@ const Home = () => {
                       <div className="team-head">
                         <img
                           src="assets/img/person_1.jpg"
-                          alt="design-development"
+                          alt="name"
                         />
                       </div>
                       <div className="team-bottom">
@@ -661,7 +661,7 @@ const Home = () => {
                       <div className="team-head">
                         <img
                           src="assets/img/person_2.jpg"
-                          alt="e-commarce"
+                          alt="name"
                         />
                       </div>
                       <div className="team-bottom">
@@ -679,7 +679,7 @@ const Home = () => {
                       <div className="team-head">
                         <img
                           src="assets/img/person_4.jpg"
-                          alt="mobile-friendly"
+                          alt="name"
                         />
                       </div>
                       <div className="team-bottom">
@@ -697,7 +697,7 @@ const Home = () => {
                       <div className="team-head">
                         <img
                           src="assets/img/person_3.jpg"
-                          alt="analytics"
+                          alt="name"
                         />
                       </div>
                       <div className="team-bottom">
@@ -715,10 +715,10 @@ const Home = () => {
                       <div className="team-head">
                         <img
                           src="assets/img/person_1.jpg"
-                          alt="website-audit"
+                          alt="name"
                         />
                       </div>
-                      <div className="service-bottom">
+                      <div className="team-bottom">
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -733,7 +733,7 @@ const Home = () => {
                       <div className="team-head">
                         <img
                           src="assets/img/person_2.jpg"
-                          alt="content-management"
+                          alt="name"
                         />
                       </div>
                       <div className="team-bottom">
