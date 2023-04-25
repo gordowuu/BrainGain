@@ -619,11 +619,11 @@ const Home = () => {
           </div>
         </div> */}
 
-        {/* <!-- ============================================== team ===================================================== --> */}
+        {/* <!-- ============================================== SERVICE ===================================================== --> */}
 
-        <div id="team">
-          <div className="team-content">
-            <div className="team-grid text-center">
+        <div id="service">
+          <div className="service-content">
+            <div className="service-grid text-center">
               <div className="container">
                 <div className="row">
                   <div className="col-md-12">
@@ -632,21 +632,21 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        our team is so dumb lul, especially chairman !?11!2#!@#!
+                        our team is so dumb lul, especially chairman !1?#@!@#
                       </p>
                     </div>
                   </div>
                 </div>
                 <div className="row love-row wow fadeIn">
                   <div className="col-md-4 col-sm-6">
-                    <div className="team-details" data-wow-delay=".1s">
-                      <div className="team-head">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
                         <img
                           src="assets/img/person_1.jpg"
                           alt="design-development"
                         />
                       </div>
-                      <div className="team-bottom">
+                      <div className="service-bottom">
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -657,14 +657,14 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-6">
-                    <div className="team-details" data-wow-delay=".1s">
-                      <div className="team-head">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
                         <img
                           src="assets/img/person_2.jpg"
-                          alt="name"
+                          alt="e-commarce"
                         />
                       </div>
-                      <div className="team-bottom">
+                      <div className="service-bottom">
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -675,14 +675,14 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-6">
-                    <div className="team-details" data-wow-delay=".1s">
-                      <div className="team-head">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
                         <img
                           src="assets/img/person_4.jpg"
-                          alt="name"
+                          alt="mobile-friendly"
                         />
                       </div>
-                      <div className="team-bottom">
+                      <div className="service-bottom">
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -693,14 +693,14 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-6">
-                    <div className="team-details" data-wow-delay=".1s">
-                      <div className="team-head">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
                         <img
                           src="assets/img/person_3.jpg"
-                          alt="name"
+                          alt="analytics"
                         />
                       </div>
-                      <div className="team-bottom">
+                      <div className="service-bottom">
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -711,14 +711,14 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-6">
-                    <div className="team-details" data-wow-delay=".1s">
-                      <div className="team-head">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
                         <img
                           src="assets/img/person_1.jpg"
-                          alt="name"
+                          alt="website-audit"
                         />
                       </div>
-                      <div className="team-bottom">
+                      <div className="service-bottom">
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -729,11 +729,11 @@ const Home = () => {
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-6">
-                    <div className="team-details" data-wow-delay=".1s">
-                      <div className="team-head">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
                         <img
                           src="assets/img/person_2.jpg"
-                          alt="name"
+                          alt="content-management"
                         />
                       </div>
                       <div className="service-bottom">
