@@ -678,8 +678,8 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/person_3.jpg"
-                          alt="analytics"
+                          src="assets/img/person_4.jpg"
+                          alt="mobile-friendly"
                         />
                       </div>
                       <div className="service-bottom">
@@ -696,8 +696,8 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/person_4.jpg"
-                          alt="mobile-friendly"
+                          src="assets/img/person_3.jpg"
+                          alt="analytics"
                         />
                       </div>
                       <div className="service-bottom">
