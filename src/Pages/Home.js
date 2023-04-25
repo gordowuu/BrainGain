@@ -647,10 +647,6 @@ const Home = () => {
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-edit service-icon"
-                          aria-hidden="true"
-                        ></i>
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -669,10 +665,6 @@ const Home = () => {
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-cart-plus exp-icon"
-                          aria-hidden="true"
-                        ></i>
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -691,10 +683,6 @@ const Home = () => {
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-tachometer service-icon"
-                          aria-hidden="true"
-                        ></i>
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -713,10 +701,6 @@ const Home = () => {
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-desktop exp-icon"
-                          aria-hidden="true"
-                        ></i>
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -735,10 +719,6 @@ const Home = () => {
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-search exp-icon"
-                          aria-hidden="true"
-                        ></i>
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
@@ -757,10 +737,6 @@ const Home = () => {
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-file exp-icon"
-                          aria-hidden="true"
-                        ></i>
                         <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
