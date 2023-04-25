@@ -44,7 +44,7 @@ function Header() {
                         <a href="/#about">About</a>
                       </li>
                       <li>
-                        <a href="Home.js" >Team</a>
+                        <a href="/#team" >Team</a>
                       </li>
                       <li>
                         <a href="/#resume">TBD</a>
