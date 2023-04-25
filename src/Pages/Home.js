@@ -621,14 +621,14 @@ const Home = () => {
 
         {/* <!-- ============================================== SERVICE ===================================================== --> */}
 
-        {/* <div id="service">
+        <div id="service">
           <div className="service-content">
             <div className="service-grid text-center">
               <div className="container">
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>Service List</h3>
+                      <h3>Meet Our Team</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
@@ -642,7 +642,7 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/design-development.jpg"
+                          src="assets/img/person_1.jpg"
                           alt="design-development"
                         />
                       </div>
@@ -651,12 +651,11 @@ const Home = () => {
                           className="fa fa-edit service-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Design + Development</h3>
+                        <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Clean, modern designs - optimized for performance,
-                          search engines, and converting users to customers.
+                          Role
                         </p>
                       </div>
                     </div>
@@ -665,7 +664,7 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/e-commarce.jpg"
+                          src="assets/img/person_2.jpg"
                           alt="e-commarce"
                         />
                       </div>
@@ -674,12 +673,11 @@ const Home = () => {
                           className="fa fa-cart-plus exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>eCommerce</h3>
+                        <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Integration of eCommerce platforms, payment gateways,
-                          custom product templates, and more.
+                          Role
                         </p>
                       </div>
                     </div>
@@ -688,7 +686,7 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/analytics.jpg"
+                          src="assets/img/person_3.jpg"
                           alt="analytics"
                         />
                       </div>
@@ -697,12 +695,11 @@ const Home = () => {
                           className="fa fa-tachometer service-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Analytics</h3>
+                        <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Get insights into who is browsing your site so that
-                          you can make smarter business decisions.
+                          Role
                         </p>
                       </div>
                     </div>
@@ -711,7 +708,7 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/mobile-friendly.jpg"
+                          src="assets/img/person_4.jpg"
                           alt="mobile-friendly"
                         />
                       </div>
@@ -720,12 +717,11 @@ const Home = () => {
                           className="fa fa-desktop exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Mobile-friendly</h3>
+                        <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          A responsive design makes your website accessible to
-                          all users, regardless of their device.
+                          Role
                         </p>
                       </div>
                     </div>
@@ -734,7 +730,7 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/website-audit.jpg"
+                          src="assets/img/person_1.jpg"
                           alt="website-audit"
                         />
                       </div>
@@ -743,12 +739,11 @@ const Home = () => {
                           className="fa fa-search exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Website Rank</h3>
+                        <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Looking to improve your page performance, SEO, or user
-                          experience? Request a free site audit.
+                          Role
                         </p>
                       </div>
                     </div>
@@ -757,7 +752,7 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/content-management.jpg"
+                          src="assets/img/person_2.jpg"
                           alt="content-management"
                         />
                       </div>
@@ -766,12 +761,11 @@ const Home = () => {
                           className="fa fa-file exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Content Management</h3>
+                        <h3>Name</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Custom theme and plugin development. Easily update
-                          site content with knowledge of powerful code.
+                          Role
                         </p>
                       </div>
                     </div>
@@ -779,7 +773,7 @@ const Home = () => {
                 </div>
               </div>
             </div>
-            <div className="testimonial">
+            {/* <div className="testimonial">
               <div className="testimonial-content">
                 <div className="testimonial-grid">
                   <div className="container">

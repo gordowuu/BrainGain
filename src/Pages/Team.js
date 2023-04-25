@@ -3,6 +3,7 @@ import React from "react";
 const Team = () => {
     return (
     <React.StrictMode>
+        <h1>Brain Gain 2023 Team</h1>
         {/* <div id="team">
             <h1>Brain Gain 2023 Team</h1>   
             <div className="team-member">
@@ -22,7 +23,7 @@ const Team = () => {
             </div>
 
         </div> */}
-        <div id="team">
+        {/* <div id="team">
             <div className="team-column">
                 <div className="team-card">
                 <img src="assets/img/person_2.jpg" alt="Jane" style="width:100%"></img>
@@ -61,7 +62,7 @@ const Team = () => {
                 </div>
                 </div>
             </div>
-        </div>
+        </div> */}
     </React.StrictMode>
         
     );
