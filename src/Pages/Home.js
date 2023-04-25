@@ -632,7 +632,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I always want to make things that make a difference.
+                        our team is so dumb lul, especially chairman !?11!2#!@#!
                       </p>
                     </div>
                   </div>
